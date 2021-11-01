@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>【2021秋季日本最新有效美白】成分升級抑制黑斑更有效！</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="js/jquery-3.5.1.min.js"></script>
+
+     <!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-K9NGXZR');</script>
+    <!-- End Google Tag Manager -->
+</head>
+
+<body>
+
+        <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-K9NGXZR"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+
+    <div class="content">
+        <ul class="menu">
+        <a href="#page1" class="scroll"><li><img src="images/head_01.png" alt=""></li></a>
+        <a href="#page2" class="scroll"><li><img src="images/head_02.png" alt=""></li></a>
+        <a href="#page3" class="scroll"><li><img src="images/head_03.png" alt=""></li></a>
+        <div class="buy">
+        <a href="#offerB" class="scroll"><li><img src="images/buy.gif" alt="" class="buy_click" ></li></a>
+        <img src="images/head_04.jpg" alt="">
+    </div>
+    </ul>
+        <div class="renew">
+        <img src="images/renew.gif" alt="" class="renew_gif">
+        <img src="images/wc_lp_02.jpg" alt="">
+    </div>
+        <img src="images/wc_lp_03.jpg" alt="">
+        <img src="images/wc_lp_04.jpg" alt="">
+        <img src="images/wc_lp_05.jpg" alt="">
+        <img src="images/wc_lp_06.jpg" alt="" id="page1">
+        <div class="black">
+        <img src="images/black.gif" alt="" class="black_gif">
+        <img src="images/wc_lp_07.jpg" alt="">
+    </div>
+        <img src="images/wc_lp_08.jpg" alt="">
+        <img src="images/wc_lp_09.jpg" alt="">
+        <img src="images/wc_lp_10.jpg" alt="" id="page2">
+        <div class="pk">
+        <img src="images/pk.gif" alt="" class="pk_gif">
+        <img src="images/wc_lp_11.jpg" alt="">
+    </div>
+        <img src="images/wc_lp_12.jpg" alt="" id="page3">
+        <img src="images/wc_lp_13.jpg" alt="">
+
+        <img src="images/wc_lp_offer_01.jpg" alt="">
+    <div class="btn1">                 
+        <a href="#lp_form" onclick="acsSelect('SHI014-1');"><img src="images/btn1.gif" alt="" class="click"></a>
+        <img src="images/wc_lp_offer_02.jpg" alt="" id="offerB">
+    </div>
+        <div class="save100">
+        <img src="images/a1_01.gif" alt="" class="save100_gif">
+        <img src="images/wc_lp_offer_03.jpg" alt="">
+    </div>
+        <img src="images/wc_lp_offer_04.jpg" alt="">
+        <div class="btn1">
+            <a href="#lp_form" onclick="acsSelect('SHI014-T');"><img src="images/btn1.gif" alt="" class="click"></a>
+        <img src="images/wc_lp_offer_05.jpg" alt="">
+    </div>
+        <img src="images/wc_lp_offer_06.jpg" alt="">
+        <img src="images/wc_lp_offer_07.jpg" alt="">
+        <img src="images/wc_lp_offer_08.jpg" alt="">
+        <div class="btn1">
+            <a href="#lp_form" onclick="acsSelect('WC2109-3');"><img src="images/btn2.gif" alt="" class="click"></a>
+        <img src="images/wc_lp_offer_09.jpg" alt="">
+    </div>
+        <img src="images/wc_lp_offer_10.jpg" alt="">
+        <img src="images/wc_lp_offer_11.jpg" alt="">
+        <div class="btn1">
+            <a href="#lp_form" onclick="acsSelect('WC2109-4');"><img src="images/btn2.gif" alt="" class="click"></a>
+        <img src="images/wc_lp_offer_12.jpg" alt="">
+    </div>
+        <img src="images/wc_lp_offer_13.jpg" alt="">
+        <img src="images/wc_lp_offer_14.jpg" alt="">
+        <img src="images/wc_lp_offer_15.jpg" alt="">
+        <img src="images/wc_lp_offer_16.jpg" alt="">
+        <img src="images/wc_lp_offer_17.jpg" alt="">
+
+
+
+        <script src="js/scroll.js"></script>
+</body>
+
+</html>
