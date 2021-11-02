@@ -291,6 +291,11 @@ bottom: 2%;
     left: 26%;
     width:20% ;
 }
+.anm_01 {
+    transform: translateX(160%);
+    transition: 2s ease-in-out;
+}
+
 .line_btn11 {
     position: absolute;
     bottom: 14%;

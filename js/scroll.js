@@ -53,7 +53,7 @@ $(function () {
             if( $(window).scrollTop() > $('#sixth').offset().top - 1000 ){
                 $('.first-img-06').addClass('animate__animated');
                 $('.first-img-06').toggle(true);
-                $('.line_btn10').stop().animate({left:"59%"},1500)
+                $('.line_btn10').addClass('anm_01');
             }
             else{
             }
