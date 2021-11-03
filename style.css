@@ -279,11 +279,25 @@ bottom: 2%;
     width:30% ;
     z-index: 9;
 }
+.line_btn08_1 {
+    position: absolute;
+    bottom: 59%;
+    margin-left: 31%;
+    width: 64.5%;
+    z-index: 9;
+}
 .line_btn09 {
     position: absolute;
     bottom: 4%;
     margin-left: 68%;
     width:30% ;
+}
+.line_btn09_1 {
+    position: absolute;
+    bottom: 18%;
+    margin-left: 4.5%;
+    width: 64%;
+    z-index: 9;
 }
 .line_btn10 {
     position: absolute;
